@@ -70,7 +70,4 @@ This project presents a comprehensive weekly analysis of credit card customer an
    - **Customer Dataset**: Includes demographic information such as gender, age, education, and marital status.  
    - **Credit Card Dataset**: Contains data on card categories, transaction types, and spending habits.
 
-## How to Run the Analysis
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
+
